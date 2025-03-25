@@ -8,7 +8,7 @@ category = "cs.RO"
 title = "Robotics"
 
 [[sources]]
-limit = 300
+limit = 500
 category = 'cs.AI'
 title = "Artificial Intelligence"
 
