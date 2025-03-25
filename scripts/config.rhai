@@ -2,7 +2,7 @@ let titles_type = [];
 let titles_model = ["world model", "diffusion", "3D"];
 let titles_method = [];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
+let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Kaiming He", "Yilun Du", "Shuran Song", "Sergey Levine", "Pieter Abbeel", "Ted Xiao", "Linxi"];
 
 let conferences = [
     // AI
